@@ -62,11 +62,11 @@ All pages are not responsive yet , those pages are might not be properly visible
 
 ## Team Members and Contributors 😇 :
 
-- 👤 Akhil Kumar Adepu
-  Github: https://github.com/akhiladepu
+- 👤  Piyush Ranjan
+  Github: https://github.com/piyush425
 - 👤 Mohit Maurya
   Github: https://github.com/MohitMaurya
-- 👤 Piyush Ranjan
-  Github: https://github.com/piyush425
+- 👤 Akhil Kumar Adepu 
+  Github: https://github.com/akhiladepu 
 - 👤 Thakoor Chandan
   Github: https://github.com/thakoorchandan
