@@ -23,32 +23,38 @@ All the image and icon links have been taken from the main website ( https://str
 
 - Landing Page (Home Page):
 
-![Home Page](https://user-images.githubusercontent.com/81949743/131253226-bbd5fc26-fcc7-4ce4-a4da-937dc6a2a784.png)
+![homepage](https://user-images.githubusercontent.com/78302050/133873519-597416a9-1b83-403d-85a5-22631ce6b44e.png)
+
+
 
 - Category Page:
 
-![Category Page](https://user-images.githubusercontent.com/35700009/129468620-f8ec0d8d-5878-4eb1-adb9-318a0fee9006.png)
+![category](https://user-images.githubusercontent.com/78302050/133873505-c716068b-f022-444b-8f35-840b2f63e163.png)
+
 
 - Product Details Page:
 
-![Product Page](https://user-images.githubusercontent.com/35700009/129468634-5a6aaed9-316c-42c3-a2b0-82eec59a20ce.png)
+![detail](https://user-images.githubusercontent.com/78302050/133873495-9a58b48c-19ac-4584-ab24-c9364fb361cb.png)
+
 
 - Wishlist Page:
 
-![Wishlist Page](https://user-images.githubusercontent.com/35700009/129468664-045f9e71-3e68-4002-a2c7-5a895b9b265e.png)
+![Wishlist](https://user-images.githubusercontent.com/78302050/133873469-3e7f2bb1-74c5-4386-9254-45f4123ddb0f.png)
 
 - Bag Page:
 
-![Bag Page](https://user-images.githubusercontent.com/81949743/131253266-a3882ffd-dcbf-4717-b366-b294ba2afe76.png)
+![bag](https://user-images.githubusercontent.com/78302050/133873454-f8f9cbbc-d89f-433e-aa72-3d9c7204b221.png)
+
 
 - Checkout Page:
 
-![Checkout Page](https://user-images.githubusercontent.com/35700009/129468699-71e1556a-0c7c-48b3-a5cf-42b0135686e1.png)
+![checkout](https://user-images.githubusercontent.com/78302050/133873395-fcde0c07-55a7-4779-88a5-07262e909330.png)
+
 
 ## How to run the Project:
 
 1. Run the command `npm run server` in terminal to start the app at port `2345`.
-2. Go to the browser enter `https://localhost:2345` in the url box, you will land home page and signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode).
+2. Go to the browser enter `https://localhost:2345` in the url box, you will land home page and signup if you are a new user or signin through your credentials (if doesn't work, please disable ad blocker or try out in incognito mode or Run command `npm install cors`).
 3. In our website you can search about the product and add product directly to bag or even to wishlist and purchase it.
 
 ### End Notes 📑
