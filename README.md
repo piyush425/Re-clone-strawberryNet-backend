@@ -4,7 +4,7 @@ Project: make a clone of https://strawberrynet.com/en-in site
 
 _This is an E-Commerce website which speciaizes in selling beauty products all over the globe. The website provides 800 brands and 33,000 products of different types of makeup, skincare, body care, fragrances and home scents._
 
-&nbsp;&nbsp;&nbsp;&#160;In this project we have tried to integrate with the backend technology. With our efforts and the technology stack, that we have learned till now in Unit-2 & Unit - 3 in the masai school, we were able to clone the whole website with same looking & features. <br><br>
+&nbsp;&nbsp;&nbsp;&#160;In this project we have tried to integrate with the backend technology. With our efforts and the technology stack, that we have learned till now . we were able to clone the whole website with same looking & features. <br><br>
 
 ## Technology Stack Used
 
